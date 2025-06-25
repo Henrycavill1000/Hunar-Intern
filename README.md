@@ -57,4 +57,6 @@ Final Output:
 --No missing values remained.
 --Dataset was ready for ML modeling or analysis.
 
+I learned a lot from this task, especially about real-world data issues like messy formats, mixed types, and null values. It also gave me hands-on experience using Pandas, which I now feel more confident with.
+This preprocessing step is super important in any ML pipeline, and I'm glad I got to do it as part of my internship.
 I done this work by honest, thankyou.
